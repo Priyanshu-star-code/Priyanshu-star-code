@@ -4,20 +4,51 @@
 
 ## 🌟 About Me
 
-DevOps Engineer with **1.5+ years of experience** in cloud infrastructure, automation, and containerization. Passionate about deploying, optimizing, and securing cloud environments, managing CI/CD pipelines, and implementing **Infrastructure as Code (IaC)** for scalable, efficient deployments.
+DevOps Engineer with _1.5+ years of experience_ in cloud infrastructure, automation, and containerization. Passionate about deploying, optimizing, and securing cloud environments, managing CI/CD pipelines, and implementing _Infrastructure as Code (IaC)_ for scalable, efficient deployments.
+
+---
 
 ## 💡 Key Expertise
 
-✅ **Cloud & Infrastructure:** Google Cloud Platform (GCP), Cloud Run, Cloud Storage  
-✅ **Containerization & Orchestration:** Docker, Kubernetes  
-✅ **CI/CD & Automation:** GitHub Actions, Jenkins, Terraform, YAML, Bash, Python  
-✅ **Cloud Cost Optimization:** Resource Management, Billing Optimization  
-✅ **Security & Compliance:** DevSecOps, IAM, Infrastructure Security
+- _Cloud & Infrastructure:_  
+  ![GCP](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=google-cloud&logoColor=white)
+  ![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat&logo=google-cloud&logoColor=white)
+  ![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat&logo=google-cloud&logoColor=white)
+- _Containerization & Orchestration:_  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+- _CI/CD & Automation:_  
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+  ![YAML](https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- _Cloud Cost Optimization:_  
+  ![Resource Management](https://img.shields.io/badge/Resource%20Management-4285F4?style=flat&logo=google-cloud&logoColor=white)
+  ![Billing Optimization](https://img.shields.io/badge/Billing%20Optimization-4285F4?style=flat&logo=google-cloud&logoColor=white)
+- _Security & Compliance:_  
+  ![DevSecOps](https://img.shields.io/badge/DevSecOps-326CE5?style=flat&logo=kubernetes&logoColor=white)
+  ![IAM](https://img.shields.io/badge/IAM-4285F4?style=flat&logo=google-cloud&logoColor=white)
+  ![Infrastructure Security](https://img.shields.io/badge/Infrastructure%20Security-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+---
 
 ## 🔥 Professional Experience Highlights
 
-- 🚀 **Led the development & deployment** of **DSO-Genie-AI** (IaC Generation Tool)
-- ⚙️ **Implemented CI/CD pipelines** using GitHub Actions & Terraform for automated workflows
-- 🐳 **Optimized Docker containers** for performance and scalability
-- 💰 **Managed cloud cost optimization** initiatives to enhance efficiency
-- 🔒 **Improved security & compliance** with DevSecOps best practices
+- 🚀 _Led the development & deployment_ of _DSO-Genie-AI_ (IaC Generation Tool)
+- ⚙ _Implemented CI/CD pipelines_ using GitHub Actions & Terraform for automated workflows
+- 🐳 _Optimized Docker containers_ for performance and scalability
+- 💰 _Managed cloud cost optimization_ initiatives to enhance efficiency
+- 🔒 _Improved security & compliance_ with DevSecOps best practices
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-verma94/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vpriyanshu708@.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-star-code&color=blue&style=flat-square)
