@@ -1,46 +1,13 @@
-# 🚀 DevOps Engineer - Priyanshu Verma
+# 🚀 Software  Engineer - Priyanshu Verma
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation;Kubernetes+%7C+Docker+%7C+Terraform;Passionate+About+Optimizing+Workflows!)
+
 
 ## 🌟 About Me
 
-DevOps Engineer with _1.5+ years of experience_ in cloud infrastructure, automation, and containerization. Passionate about deploying, optimizing, and securing cloud environments, managing CI/CD pipelines, and implementing _Infrastructure as Code (IaC)_ for scalable, efficient deployments.
+Software  Engineer with _1.5+ years of experience_ in cloud infrastructure, automation, and containerization. Passionate about deploying, optimizing, and securing cloud environments, managing CI/CD pipelines, and implementing _Infrastructure as Code (IaC)_ for scalable, efficient deployments.
 
 ---
 
-## 💡 Key Expertise
-
-- _Cloud & Infrastructure:_  
-  ![GCP](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=google-cloud&logoColor=white)
-  ![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat&logo=google-cloud&logoColor=white)
-  ![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat&logo=google-cloud&logoColor=white)
-- _Containerization & Orchestration:_  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-- _CI/CD & Automation:_  
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-  ![YAML](https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- _Cloud Cost Optimization:_  
-  ![Resource Management](https://img.shields.io/badge/Resource%20Management-4285F4?style=flat&logo=google-cloud&logoColor=white)
-  ![Billing Optimization](https://img.shields.io/badge/Billing%20Optimization-4285F4?style=flat&logo=google-cloud&logoColor=white)
-- _Security & Compliance:_  
-  ![DevSecOps](https://img.shields.io/badge/DevSecOps-326CE5?style=flat&logo=kubernetes&logoColor=white)
-  ![IAM](https://img.shields.io/badge/IAM-4285F4?style=flat&logo=google-cloud&logoColor=white)
-  ![Infrastructure Security](https://img.shields.io/badge/Infrastructure%20Security-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
----
-
-## 🔥 Professional Experience Highlights
-
-- 🚀 _Led the development & deployment_ of _DSO-Genie-AI_ (IaC Generation Tool)
-- ⚙ _Implemented CI/CD pipelines_ using GitHub Actions & Terraform for automated workflows
-- 🐳 _Optimized Docker containers_ for performance and scalability
-- 💰 _Managed cloud cost optimization_ initiatives to enhance efficiency
-- 🔒 _Improved security & compliance_ with DevSecOps best practices
 
 ---
 
