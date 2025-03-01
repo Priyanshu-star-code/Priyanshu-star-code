@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 
-Software  Engineer with _1.5+ years of experience_ in cloud infrastructure, automation, and containerization. Passionate about deploying, optimizing, and securing cloud environments, managing CI/CD pipelines, and implementing _Infrastructure as Code (IaC)_ for scalable, efficient deployments.
+I have 1.5 years of experience as a Frontend Engineer.
 
 ---
 
