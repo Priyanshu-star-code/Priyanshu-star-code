@@ -2,9 +2,9 @@
 
 
 
-## 🌟 About Me
 
-##I have 1.5 years of experience as a Frontend Engineer.
+
+
 
 ---
 
