@@ -4,9 +4,11 @@
 
 ## 🌟 About Me
 
-Software Engineer experience* in cloud infrastructure, automation, and containerization. Passionate about deploying, optimizing, and securing cloud environments, managing CI/CD pipelines, and implementing \_Infrastructure as Code (IaC)* for scalable, efficient deployments.
+Software Engineer experience in cloud infrastructure, automation, and containerization. Passionate about deploying, optimizing, and securing cloud environments, managing CI/CD pipelines, and implementing \_Infrastructure as Code (IaC) for scalable, efficient deployments.
 
 ---
+
+## 🌟 About Me
 
 ## 💡 Key Expertise
 
@@ -20,7 +22,7 @@ Software Engineer experience* in cloud infrastructure, automation, and container
 - _CI/CD & Automation:_  
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
   ![YAML](https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+  <!-- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) -->
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - _Cloud Cost Optimization:_  
   ![Resource Management](https://img.shields.io/badge/Resource%20Management-4285F4?style=flat&logo=google-cloud&logoColor=white)
@@ -29,6 +31,7 @@ Software Engineer experience* in cloud infrastructure, automation, and container
    ![DevSecOps](https://img.shields.io/badge/DevSecOps-326CE5?style=flat&logo=kubernetes&logoColor=white)
   ![IAM](https://img.shields.io/badge/IAM-4285F4?style=flat&logo=google-cloud&logoColor=white)
   ![Infrastructure Security](https://img.shields.io/badge/Infrastructure%20Security-326CE5?style=flat&logo=kubernetes&logoColor=white)
+  Software Engineer with _1.5+ years of experience_ in cloud infrastructure, automation, and containerization. Passionate about deploying, optimizing, and securing cloud environments, managing CI/CD pipelines, and implementing _Infrastructure as Code (IaC)_ for scalable, efficient deployments.
 
 ---
 
