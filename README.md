@@ -1,6 +1,6 @@
 # 🚀 Priyanshu Verma - Software Engineer
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation;Python+%7C+Docker+%7C+Terraform;Passionate+About+Optimizing+Workflows!)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation;Python+%7C+Docker+%7C+JavaScript+ReactJs;Passionate+About+Optimizing+Workflows!)
 
 ## 🌟 About Me
 
