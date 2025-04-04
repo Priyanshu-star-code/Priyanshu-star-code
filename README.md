@@ -38,7 +38,7 @@ Software Engineer experience in building frontend side, optimizing, and securing
 ## 🔥 Professional Experience Highlights
 
 - 🚀 _Led the development & deployment_ of _DSO-Genie-AI_ (IaC Generation Tool)
-- ⚙ _Implemented CI/CD pipelines_ using GitHub Actions & Terraform for automated workflows
+- ⚙ _Frontend side_ Building frontend using react js and JavaScript
 - 🐳 _Optimized Docker containers_ for performance and scalability
 - 💰 _Managed cloud cost optimization_ initiatives to enhance efficiency
 - 🔒 _Improved security & compliance_ with DevSecOps best practices
