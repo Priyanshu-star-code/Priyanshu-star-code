@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 
-Software Engineer experience in building frontend side, optimizing, and securing cloud environments, managing CI/CD pipelines, and implementing \_Infrastructure as Code (IaC) for scalable, efficient deployments.
+Software Engineer experience in building frontend side, optimizing, and securing cloud environments, \_Infrastructure as Code (IaC) for scalable, efficient deployments.
 
 ---
 
