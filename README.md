@@ -31,7 +31,7 @@ Software Engineer experience in building frontend side, optimizing, and securing
    ![DevSecOps](https://img.shields.io/badge/DevSecOps-326CE5?style=flat&logo=kubernetes&logoColor=white)
   ![IAM](https://img.shields.io/badge/IAM-4285F4?style=flat&logo=google-cloud&logoColor=white)
   ![Infrastructure Security](https://img.shields.io/badge/Infrastructure%20Security-326CE5?style=flat&logo=kubernetes&logoColor=white)
-  Software Engineer with _1.5+ years of experience_ in cloud infrastructure, automation, and containerization. Passionate about deploying, optimizing, and securing cloud environments, managing CI/CD pipelines, and implementing _Infrastructure as Code (IaC)_ for scalable, efficient deployments.
+  Software Engineer with _1.5+ years of experience_ in front-end and containerization. Passionate about deploying, optimizing, and securing cloud environments, and implementing _Infrastructure as Code (IaC)_ for scalable, efficient deployments.
 
 ---
 
